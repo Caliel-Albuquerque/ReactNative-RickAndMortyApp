@@ -1,4 +1,4 @@
-# Rick and Morty Characters App
+# Rick and MortyApp
 
 Este é um aplicativo React Native que consome a API do Rick and Morty para exibir os personagens e seus detalhes.
 
